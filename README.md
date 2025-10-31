@@ -21,7 +21,7 @@ To solve this, we leverage the **Gemini Generative AI API** to automatically gen
 
 ## ⚙️ Technical Approach
 
-### 1️⃣ Input Data
+### Input Data
 - Accepts an **Excel file (.xlsx)** containing product details:
   - `sku`, `title_hint`, `type`, `material`, `color`, `size_info`, `target_audience`, `seasonal_tags`, `language`
 
@@ -47,7 +47,7 @@ This method guarantees **consistent, SEO-relevant, and emotionally engaging** de
 
 
 
-### 3️⃣ Model Integration
+###  Model Integration
 - **Google Gemini API** via `google-genai` Python client.
 - Model options:
   - `gemini-2.0-flash` → text-only generation
@@ -56,7 +56,7 @@ This method guarantees **consistent, SEO-relevant, and emotionally engaging** de
 
 ---
 
-### 4️⃣ Streamlit Web Interface
+###  Streamlit Web Interface
 - Upload Excel files.
 - Specify optional image folder.
 - Map Excel columns dynamically.
