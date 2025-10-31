@@ -1,4 +1,4 @@
-# 📝 SEO Product Description Generator using Google Gemini API
+# 📝 Product Description Generator using Google Gemini API
 
 ## 📌 Project Overview
 In modern e-commerce platforms, writing **unique product descriptions** for thousands of items is a **time-consuming and repetitive task**. Manual copywriting increases operational costs and often results in **inconsistent tone** and product presentation.
