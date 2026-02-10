@@ -43,7 +43,12 @@ This method guarantees **consistent, SEO-relevant, and emotionally engaging** de
 - 
 ## 🧩 Key Features
 - 🔠 Multi-language SEO descriptions   
-- ⚡ Batch generation from Excel  
+- ⚡ Batch generation from Excel
+
+## Demo
+
+![Screenshot](https://github.com/saharkhalafi/Product-Description-Generator/blob/main/UI%20sample2.png) 
+![Screenshot](https://github.com/saharkhalafi/Product-Description-Generator/blob/main/UI%20sample2.png) 
 
 
 
