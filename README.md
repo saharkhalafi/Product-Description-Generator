@@ -47,7 +47,7 @@ This method guarantees **consistent, SEO-relevant, and emotionally engaging** de
 
 ## Demo
 
-![Screenshot](https://github.com/saharkhalafi/Product-Description-Generator/blob/main/UI%20sample2.png) 
+![Screenshot](https://github.com/saharkhalafi/Product-Description-Generator/blob/main/UI%20Sample1.png) 
 ![Screenshot](https://github.com/saharkhalafi/Product-Description-Generator/blob/main/UI%20sample2.png) 
 
 
